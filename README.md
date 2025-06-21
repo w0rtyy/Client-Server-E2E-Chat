@@ -47,3 +47,16 @@ Client (on macOS or Linux):
 ```
   gcc client.c -o client -lssl -lcrypto
 ```
+
+Port Forwarding (Optional)
+
+To allow external clients:
+
+    Forward TCP port 8080 on your router
+
+    Allow it through your firewall:
+
+sudo ufw allow 8080/tcp
+
+
+
