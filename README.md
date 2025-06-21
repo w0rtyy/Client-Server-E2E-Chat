@@ -26,7 +26,6 @@ A simple, terminal-based **chat application**\\ built using **sockets in C** wit
 
 🛠️ Prerequisites
 On Both Server and Client Machines:
-
     GCC compiler
     OpenSSL development libraries
 
