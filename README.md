@@ -1,15 +1,15 @@
 # Client-Server-E2E-Chat
 
-A simple, terminal-based **chat application**\\ built using **sockets in C** with **AES-256-CBC encryption** powered by OpenSSL. The server runs on a Linux machine, and the client can run from another machine (e.g., macOS) over a network or the internet.
+A simple, terminal-based **chat application** built using **sockets in C** with **AES-256-CBC encryption** powered by OpenSSL. The server runs on a Linux machine, and the client can run from another machine (e.g., macOS) over a network or the internet.
 
 ---
 
 ##  Features
 
-- 🔐 AES-256-CBC encrypted communication
-- 💬 Bi-directional chat between client and server
-- 🌐 Works across machines on local or public networks
-- 🧪 Built with low-level socket APIs (no third-party frameworks)
+-  AES-256-CBC encrypted communication
+-  Bi-directional chat between client and server
+-  Works across machines on local or public networks
+-  Built with low-level socket APIs (no third-party frameworks)
 
 ---
 
