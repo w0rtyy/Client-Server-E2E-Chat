@@ -57,3 +57,6 @@ Allow it through your firewall:
 ```
 
 
+
+I built this simple terminal based chat application to learn and understand the basics of socket programming. This was simple yet in-depth learning of socket programming in C language. This was simple, clear and concise program. 
+
