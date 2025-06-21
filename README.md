@@ -10,7 +10,6 @@ A simple, terminal-based **chat application**\\ built using **sockets in C** wit
 - 💬 Bi-directional chat between client and server
 - 🌐 Works across machines on local or public networks
 - 🧪 Built with low-level socket APIs (no third-party frameworks)
-- 🧵 Designed for future multi-client expansion
 
 ---
 
