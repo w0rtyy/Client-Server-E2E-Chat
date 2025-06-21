@@ -4,7 +4,7 @@ A simple, terminal-based **chat application**\\ built using **sockets in C** wit
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔐 AES-256-CBC encrypted communication
 - 💬 Bi-directional chat between client and server
@@ -23,7 +23,7 @@ A simple, terminal-based **chat application**\\ built using **sockets in C** wit
 
 ```
 
-🛠️ Prerequisites
+ Prerequisites
 On Both Server and Client Machines:
     GCC compiler
     OpenSSL development libraries
@@ -37,7 +37,7 @@ For macOS (with Homebrew):
 ```
   brew install openssl
 ```
-🔧 Compilation
+ Compilation
 Server (on Linux):
 ```
   gcc server.c -o server -lssl -lcrypto
